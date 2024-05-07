@@ -1,0 +1,111 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: no-repeat;
+    background: url('img/bg1.jpg');
+}
+.navbar {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(162, 136, 187);
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+    top: 0px;
+}
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    transition: 0.8s;
+    border: 2px solid pink;
+    padding: 5px 14px;
+    border-radius: 10px;
+}
+a:hover {
+    color: rgb(209, 209, 14);
+}
+.aylar {
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    text-align: center;
+    margin: 40px;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.box {
+    color: orangered;
+}
+#ocak {
+    padding: 130px;
+    margin: auto;
+}
+#subat {
+    padding: 130px;
+    margin: auto;
+}
+#mart {
+    padding: 130px;
+    margin: auto;
+}
+#nisan {
+    padding: 130px;
+    margin: auto;
+}
+#mayıs {
+    padding: 130px;
+    margin: auto;
+}
+#haziran {
+    padding: 130px;
+    margin: auto;
+}
+#temmuz {
+    padding: 130px;
+    margin: auto;
+}
+#ağustos {
+    padding: 130px;
+    margin: auto;
+}
+#eylül {
+    padding: 130px;
+    margin: auto;
+}
+#ekim {
+    padding: 130px;
+    margin: auto;
+}
+#kasım {
+    padding: 130px;
+    margin: auto;
+}
+#aralık {
+    padding: 130px;
+    margin: auto;
+}
+.darling {
+    text-align: center;
+    margin: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    padding:0px 0px 60px 0px;
+}
+.darling1 {
+    font-size: 20px;
+}
+.note-box{
+    padding: 30px;
+}
+.note {
+    border: 2px solid rgb(203, 167, 237);
+    width: 600px;
+    height: 80px;
+    border-radius: 20px;
+    text-align: center;
+    align-content: center;
+    text-align: center;
+}
